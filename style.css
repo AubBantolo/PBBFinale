@@ -1,0 +1,263 @@
+.header
+{
+    position: relative;
+    top: 30px;
+    bottom: 15px;
+    left: 25px;
+}
+
+.header2
+{
+    position: relative;
+    top: 40px;
+    left: 20px;
+}
+
+.rss-box
+{
+    position: relative;
+    top: 35px;
+    left: 25px;
+    width: 92%;
+    text-align: justify;
+}
+
+.rss-box p
+{
+    left: 20px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.rss-box a
+{
+    text-decoration: none;
+    color: #4A56AB;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+a
+{
+    text-decoration: none;
+    color: #d6b6a0;
+}
+
+a:hover
+{
+    text-decoration-line: underline; 
+}
+
+.rss-box2
+{
+    position: relative;
+    top: 50px;
+    left: 25px;
+    width: 92%;
+    text-align: justify;
+}
+
+.rss-box2 p
+{
+    left: 20px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.rss-box2 a
+{
+    text-decoration: none;
+    color: #4A56AB;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+a
+{
+    text-decoration: none;
+    color: #d6b6a0;
+}
+
+a:hover
+{
+    text-decoration-line: underline; 
+}
+
+.about
+{
+    position: relative;
+    width: 645px;
+    height: 590px;
+    top: 40px;
+    left: 25px;
+}
+
+.imguser1
+{
+    position: relative;
+    width: 645px;
+    height: 435px;
+}
+
+.imguser2
+{
+    position: relative;
+    width: 645px;
+    height: 186px;
+}
+
+.img1
+{
+    position: relative;
+    width: 645px;
+    height: 355px;
+}
+
+.img2
+{
+    position: relative;
+    width: 310px;
+    height: 270px;
+    margin-right: 5px;
+}
+
+.img3
+{
+    position: absolute;
+    width: 330px;
+    height: 270px;
+}
+
+.collage2
+{
+    position: relative;
+    top: 30px;
+    left: 30px;
+}
+
+
+h1
+{
+    position: relative;
+    top: -10px;
+    left: -30px;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 25px;
+    color: #4A56AB;
+}
+
+.three
+{
+    margin-bottom: 60px;
+}
+
+
+.alexa1
+{
+    position: relative;
+    width: 315px;
+    height: 290px;
+    margin-right: 12px;
+}
+
+.alyssa1
+{
+    position: absolute;
+    width: 315px;
+    height: 290px;
+}
+
+
+.eian1
+{
+    position: relative;
+    width: 315px;
+    height: 290px;
+    margin-top: 10px;
+    margin-right: 12px;
+}  
+
+.anji1
+{
+    position: absolute;
+    width: 315px;
+    height: 290px;
+    margin-top: 10px;
+}
+
+.brenda1
+{
+    position: relative;
+    width: 315px;
+    height: 290px;
+    margin-top: 10px;
+    margin-right: 12px;
+}  
+
+.john1
+{
+    position: absolute;
+    width: 315px;
+    height: 290px;
+    margin-top: 10px;
+}
+
+.karen1
+{
+    position: relative;
+    width: 315px;
+    height: 290px;
+    margin-top: 10px;
+    margin-right: 12px;
+}  
+
+.kd1
+{
+    position: absolute;
+    width: 315px;
+    height: 290px;
+    margin-top: 10px;
+}
+
+.madam1
+{
+    position: relative;
+    width: 315px;
+    height: 290px;
+    margin-top: 10px;
+    margin-right: 12px;
+}  
+
+.sam1
+{
+    position: absolute;
+    width: 315px;
+    height: 290px;
+    margin-top: 10px;
+}
+
+.shanaia1
+{
+    position: relative;
+    width: 315px;
+    height: 290px;
+    margin-top: 10px;
+    margin-right: 12px;
+}  
+
+.tj1
+{
+    position: absolute;
+    width: 315px;
+    height: 290px;
+    margin-top: 10px;
+}
+
+.set6
+{
+    margin-bottom: 60px;
+}
+
+
